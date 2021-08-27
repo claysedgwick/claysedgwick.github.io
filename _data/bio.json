@@ -1,58 +1,58 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Clay Sedgwick",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://claysedgwick.github.io/images/20210713_194135sq.jpg",
+    "email": "clayds@hawaii.edu",
+    "phone": "808-784-8019",
+    "website": "https://claysedgwick.github.io",
+    "summary": "I am studying for a B.A. in Marketing/MIS intending to graduate in Summer 2022.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "96734",
+      "city": "Kailua",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "claysedgwick",
+        "url": "http://github.com/claysedgwick"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "claysedgwick",
+        "url": "http://linkedin.com/in/claysedgwick"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "50shadesofclayy",
+        "url": "http://instagram.com/50shadesofclayy"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Data Analytics",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Tableau",
+        "SPSS",
+        "SQL"
       ]
     },
     {
-      "name": "data mining",
+      "name": "DJing/Music Production",
       "keywords": [
+        "Electronic Music",
+        "Deep House"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Computer Programming",
       "keywords": [
+        "Java",
+        "SQL"
       ]
     }
   ],
