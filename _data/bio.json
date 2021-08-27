@@ -81,13 +81,29 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Marketing/MIS (expected Summer, 2022)",
+      "studyType": "B.A.",
+      "startDate": "Fall 2019",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": 3.73"",
       "courses": [
+        "Marketing Research & Data Analytics",
+        "Marketing Consumer Behavior",
+        "Digital Marketing",
+        "Statistical Analysis for Business Decision",
+        "Sustainable Marketing",
+        "Information Systems for Global Business",
+        "Programming Application Systems",
+        "Intro to Computer Science I & II - Java"
       ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Secondary Education Mathematics (Spring, 2017)",
+      "studyType": "B.eD.",
+      "startDate": "Fall 2013",
+      "endDate": "Spring 2017",
+      "gpa": "3.62"
     }
   ],
   "work": [
