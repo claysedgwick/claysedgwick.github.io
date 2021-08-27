@@ -11,9 +11,8 @@ labels:
 summary: This project is coming soon.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/comingsoon.png">
-</div>
+<img class="ui image" src="https://claysedgwick.github.io/images/comingsoon.jpg">
+
 
 ## This Project is COMING SOON!
 
