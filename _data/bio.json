@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Clay Sedgwick",
-    "label": "Student",
+    "label": "Shidler Undergraduate",
     "picture": "https://claysedgwick.github.io/images/20210713_194135sq.jpg",
     "email": "clayds@hawaii.edu",
     "phone": "808-784-8019",
     "website": "https://claysedgwick.github.io",
-    "summary": "I am studying for a B.A. in Marketing/MIS intending to graduate in Summer 2022.",
+    "summary": "I am studying for a B.A. degree in Marketing and MIS intending to graduate in Summer 2022. I am pursuing a career in data analytics and market research.",
     "location": {
       "address": "",
       "postalCode": "96734",
@@ -42,17 +42,19 @@
       ]
     },
     {
-      "name": "DJing/Music Production",
-      "keywords": [
-        "Electronic Music",
-        "Deep House"
-      ]
-    },
-    {
       "name": "Computer Programming",
       "keywords": [
         "Java",
-        "SQL"
+        "SQL",
+        "Python"
+      ]
+    },
+    {
+      "name": "DJing/Music Production",
+      "keywords": [
+        "Electronic Music",
+        "Deep House",
+        "Ableton"
       ]
     }
   ],
