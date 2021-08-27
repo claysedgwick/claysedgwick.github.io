@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/20210713_194135sq.jpg
+image: images/comingsoon.jpg
 title: COMING SOON
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
