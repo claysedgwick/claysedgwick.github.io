@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/comingsoon.jpg
+image: https://claysedgwick.github.io/images/20210713_194135sq.jpg
 title: COMING SOON
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
