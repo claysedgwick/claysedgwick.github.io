@@ -10,9 +10,7 @@ labels:
   - COMING SOON
 summary: This project is coming soon.
 ---
-
-<img class="ui image" src="https://claysedgwick.github.io/images/comingsoon.jpg">
-
+<img  src="https://claysedgwick.github.io/images/comingsoon.jpg" align="center"/>
 
 ## This Project is COMING SOON!
 
